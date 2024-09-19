@@ -1,7 +1,0 @@
-0000000000000000000000000000000000000000 750d1d0aef9e76c1c7ce5941b8c6d97ef72826d9 root <root@f2aafb651633.(none)> 1726189924 +0000	clone: from git@github.com:antonio2uofa/IBC_Paper.git
-750d1d0aef9e76c1c7ce5941b8c6d97ef72826d9 14371b041653f28c99c2cef10d2507a2b61334bc Antonio <antonio2@ualberta.ca> 1726190274 +0000	commit: FIRST PUSH FOR TRAINING ON SERVER
-14371b041653f28c99c2cef10d2507a2b61334bc 93da1f539f50d45fc0281fe4c9a28eb6df5371e8 Antonio <antonio2@ualberta.ca> 1726190373 +0000	commit: ADDED IN TEMP FILES FOR EVALUATION
-93da1f539f50d45fc0281fe4c9a28eb6df5371e8 6ccfdd19758972d1ed41258508d5985284d8c07f Antonio <antonio2@ualberta.ca> 1726224736 +0000	commit: 80085
-6ccfdd19758972d1ed41258508d5985284d8c07f 039d6b5eb3455fb0698029f13c42d9ec48897eda Antonio <antonio2@ualberta.ca> 1726226398 +0000	commit: i dont know what the heck is this. Help me Gof!
-039d6b5eb3455fb0698029f13c42d9ec48897eda 8ecd184189682c35b7acc5d588ce96e4c23f5482 Antonio <antonio2@ualberta.ca> 1726228654 +0000	commit: updated folder paths
-8ecd184189682c35b7acc5d588ce96e4c23f5482 98491b44421040e0f47b3e5fcbb82907fce0df21 Antonio <antonio2@ualberta.ca> 1726228671 +0000	pull: Merge made by the 'recursive' strategy.
